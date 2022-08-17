@@ -1,6 +1,16 @@
-Sublime Text Google Translate Plugin
+Replacement "Inline Google Translate" ... QTranslate?
 ===============================
+Sadly it looks like Google Translate (a.k.a. "Inline Google Translate") for Sublime Text no longer works. I've scanned most of the forks of the original repo and it looks like no one has a version working as of 08/2022 ... so until/unless I find someone w/a working version it looks like the plugin is dead.
 
+Good news is that a 3rd party tool called "QTranslate" is almost as good. Once you install it and configure the hotkey for "translate selected text" you can translate text in Sublime Text (or any editor) with the press of a button. You do have to set the default target language in QTranslate first but not that big a pain. Anyhow - just FYI for anyone else in same boat as me who needed something here ...
+
+### [QTranslate](http://quest-app.appspot.com/home) 
+(appears free, so far...)
+
+
+
+Sublime Text Google Translate Plugin (RIP)
+===============================
 For SublimeText 2 & 3, support proxy `PROXY_TYPE_SOCKS5` `PROXY_TYPE_SOCKS4` `PROXY_TYPE_HTTP`
 
 **Version:** 2.1.0
